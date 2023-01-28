@@ -1,0 +1,62 @@
+/*Faris Alghamdi 2040630
+*/
+body {
+  background-color: #413838;
+ 
+}
+
+
+.header {
+  background-color: rgb(177, 88, 16);
+  padding-bottom: 20px;
+}
+
+.infosize {
+  width: 500px;
+}
+
+.topnav {
+  color: brown;
+  background-color: rgb(122, 68, 5);
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.TQ {
+  position: absolute;
+  height: 341px;
+  width: 264px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid black;
+  padding: 10px;
+
+}
+
+.edu img {
+  vertical-align: middle;
+}
+
+.edu p {
+  display: inline;
+}
